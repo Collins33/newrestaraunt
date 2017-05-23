@@ -42,6 +42,12 @@ nav{
 ul,li{
   display: inline;
   font:bold 50px tahoma;
+  background-color: grey;
 
+
+}
+section{
+float: none;
+margin: 400px;
 
 }
