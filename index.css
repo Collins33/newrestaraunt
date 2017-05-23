@@ -38,6 +38,7 @@ nav{
 
 
 
+
 }
 ul,li{
   display: inline;
@@ -45,9 +46,24 @@ ul,li{
   background-color: grey;
 
 
+
 }
 section{
 float: none;
 margin: 400px;
+font-family: monospace;
+font-size: 25px;
 
+}
+a:link{
+  color: black;
+}
+a:visited{
+  color: blue;
+}
+a:hover{
+  color: red;
+}
+a:active{
+  color: grey;
 }
