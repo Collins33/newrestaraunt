@@ -6,9 +6,12 @@
 
 }
 h1{
-  font: bold 20px tahoma;
+  font: bold 70px tahoma;
+  background-color: black;
+  color: white;
+
 }
-h1,section,nav,p,header,ul,li,{
+h1,section,nav,p,header{
   display: block;
 
 
@@ -25,4 +28,20 @@ body{
 }
 header{
   text-align: left;
+
+
+}
+nav{
+  text-align: left;
+  display: inline;
+  background-color: white;
+
+
+
+}
+ul,li{
+  display: inline;
+  font:bold 50px tahoma;
+
+
 }
