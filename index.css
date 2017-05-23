@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+
+
+}
+h1{
+  font: bold 20px tahoma;
+}
+h1,section,nav,p,header,ul,li,{
+  display: block;
+
+
+
+}
+body{
+  text-align: center;
+  border: 1px solid black;
+  width: 1000px;
+  margin-top: 20px;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+header{
+  text-align: left;
+}
