@@ -42,7 +42,7 @@ nav{
 }
 ul,li{
   display: inline;
-  font:bold 50px tahoma;
+  font: 50px tahoma;
   background-color: grey;
 
 
@@ -53,6 +53,7 @@ float: none;
 margin: 400px;
 font-family: monospace;
 font-size: 25px;
+background-image: url("restaurant-red-beans-coffee.jpg");
 
 }
 a:link{
@@ -66,4 +67,11 @@ a:hover{
 }
 a:active{
   color: grey;
+}
+img{
+  width: 500px;
+  height: auto;
+}
+p{
+  color: white;
 }
